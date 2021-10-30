@@ -1,0 +1,45 @@
+
+.bg-primary{
+    opacity: 0.7;
+}
+
+#header{
+    background-color: rgb(201, 225, 247);
+    height: 380px;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+#head_name{
+    display: inline-block;
+    margin-top: 70px;
+    margin-left: 20px !important;
+    margin-bottom: 20px;
+    font-size: 1.3rem;  
+}
+
+#Profile-pic{
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin: 30px; 
+}
+
+.button{
+    margin-bottom: 30px;
+    background-color: rgb(32, 107, 247);
+    border-radius: 5px;
+    padding: 15px;
+    margin-left: 20px;
+    color: white;
+    font-size: x-large;
+    text-decoration: none;
+}
+.center{
+    text-align: center;
+}
+
+.container .row div{
+    padding: 10px;
+}
